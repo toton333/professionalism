@@ -1,0 +1,76 @@
+/*
+Theme Name: Professionalism
+Theme URI:  localhost/professional
+Author: Bishan
+Author URI: localhost/professional
+Description: A corporate website
+Version: 1.0
+Tags: Slick, professional, green, corporate, business
+
+*/
+
+/* current menu item style*/
+.menu ul li.current-menu-item a{ color:#313c53; background:#8be400;}
+
+/* for placeholder styling */
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:#fff;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:#fff;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:#fff;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+   color:#fff;
+}
+
+/* buttons*/
+.contact-panel .buttons h2 input{
+    color: #9cff00;
+    padding: 0;
+    border: none;
+    background: none;
+    font-size: 16px;
+}
+.contact-panel .buttons h2 input:hover{
+color: #1c263c;
+}
+/* to seperate widgets from eachother */
+.right-panel .contact-panel {
+	margin-top: 30px;
+}
+
+/* styling the middle widget*/
+.right-panel #prof_widget-4{
+	border: #24314c solid 1px;
+    padding: 30px 30px 30px 30px;
+    background: #202b43;
+    margin-bottom: 30px;
+    overflow: auto;
+   color: #9cff00;
+}
+.right-panel #prof_widget-4 .title h1{
+	color: #9cff00;
+}
+
+
+.right-panel #prof_widget-4{ border:#24314c solid 1px; padding:30px 30px 30px 30px; background:#202b43; margin-bottom:30px; overflow:auto;}
+.right-panel #prof_widget-4 .title{ border-bottom:#25314c solid 1px; padding-bottom:20px;}
+.right-panel #prof_widget-4 .content ul{padding-left:0px;}
+.right-panel #prof_widget-4 .content ul li{ list-style: url(images/arrow-small.jpg) inside; border-bottom:#25314c solid 1px;line-height:35px;}
+.right-panel #prof_widget-4 .content ul li a{text-decoration:none; font-family: 'Open Sans', sans-serif; font-size:13px; color:#54657b;}
+.right-panel #prof_widget-4 .content ul li a:hover{color:#9cff00;}
+
+.right-panel #prof_widget-6 {
+    padding-bottom: 20px;
+}
+
+/* styling every 3rd portfolio items*/
+div.panel:nth-child(3n){
+    margin-right: 0px;
+}
+.social-wrapper ul li:last-child{
+    float:left; padding-right:0px;
+}

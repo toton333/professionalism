@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Power\n"
+"POT-Creation-Date: 2016-02-21 14:59+0530\n"
+"PO-Revision-Date: 2016-02-21 15:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: Indian <munna@munna.com>\n"
+"Language: bn_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: contact.php\n"
+"X-Poedit-SearchPath-1: footer.php\n"
+"X-Poedit-SearchPath-2: functions.php\n"
+"X-Poedit-SearchPath-3: header.php\n"
+"X-Poedit-SearchPath-4: index.php\n"
+"X-Poedit-SearchPath-5: page.php\n"
+"X-Poedit-SearchPath-6: services.php\n"
+"X-Poedit-SearchPath-7: sidebar.php\n"
+"X-Poedit-SearchPath-8: single.php\n"
+"X-Poedit-SearchPath-9: style.css\n"
+"X-Poedit-SearchPath-10: template-frontpage.php\n"
+"X-Poedit-SearchPath-11: work.php\n"
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr "প্রাথমিক মেনু"
+
+#: functions.php:102
+msgid "Right Sidebar"
+msgstr " ডান সাইডবার "
+
+#: functions.php:156
+msgid "Professional Section"
+msgstr "প্রোফেসনাল বিভাগ"
+
+#: functions.php:163
+msgid "Professional"
+msgstr "প্রোফেসনাল"
+
+#: functions.php:170
+msgid "Logo Text"
+msgstr "লোগো টেক্সট"
+
+#: functions.php:182
+msgid "Upload logo"
+msgstr "লোগো আপলোড"
+
+#: functions.php:189 functions.php:204
+msgid "#9cff00"
+msgstr ""
+
+#: functions.php:195
+msgid "Theme Color"
+msgstr "থিমের রঙ"
+
+#: functions.php:208
+msgid "Button background"
+msgstr "বোতাম প্রেক্ষাপট"
+
+#: index.php:19 template-frontpage.php:80 template-frontpage.php:113
+msgid "MORE"
+msgstr "আরও"
+
+#: single.php:23
+msgid "Page Not Found"
+msgstr "পেইজ খুঁজে পাওয়া যায়নি"
